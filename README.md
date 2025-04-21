@@ -11,7 +11,7 @@ Currently decoding neurons by day 🧠 and data patterns by night 🌙
 🧠 I'm a **Graduate Research Assistant** at UMN Neuroscience Dept., building software and analyzing data to help treat neurogenic damage. 
    Yes, I play with patient data. Responsibly! 😇
 
-🚀 Interned as a Software Dev at **Softlogic Systems**, crafting payroll systems with Java + Spring Boot like a backend wizard 🪄 — boosted performance, added OAuth, and made databases feel alive.
+🚀 Interned as a Software Dev at **Softlogic Systems**, crafting payroll systems with Java + Spring Boot 🪄 — boosted performance, added OAuth, and made databases feel alive.
 
 📊 Into all things **Machine Learning, Data Analytics, and Generative AI** (aka, I love when machines try to be smart — sometimes smarter than me 👀)
 
