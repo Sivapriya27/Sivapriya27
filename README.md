@@ -4,6 +4,7 @@ I'm **Sivapriya Gopi** — part technologist, part research nerd, full-time ML/D
 Currently decoding neurons by day 🧠 and data patterns by night 🌙
 
 🎓 Doing my **Master’s in Computer Science** at the University of Minnesota 🏫 
+
 🎓 Graduated **with First Class Distinction** in B.Tech CSE from SRM University in India 🇮🇳
 
 🧠 I'm a **Graduate Research Assistant** at UMN Neuroscience Dept., building software and analyzing data to help treat neurogenic damage. Yes, I play with patient data. Responsibly! 😇
@@ -33,11 +34,15 @@ Currently decoding neurons by day 🧠 and data patterns by night 🌙
 ---
 
 ### 🛠️ Skills
-**Languages:** Python, Java, SQL, MATLAB, C++, JavaScript  
-**Libraries & Frameworks:** Scikit-learn, Pandas, NumPy, PyTorch, TensorFlow, Spring Boot, Svelte  
-**Tools:** Power BI, MySQL Workbench, Figma, StarUML  
-**Concepts:** Gen AI, ML, Data Analytics, Predictive Modeling, Microservices, OAuth 2.0, RESTful APIs, Agile  
-**Operating Systems:** Windows, Linux, macOS
+
+**Languages:** Python, SQL, Java, MATLAB, HTML, C++, JavaScript  
+**Libraries & Tools:** Pandas, NumPy, Pygame, SQLAlchemy, Power BI, Figma, MySQL Workbench, StarUML, Zoho Creator  
+**Frameworks & Methodologies:** PyTorch, TensorFlow, Spring Boot, RESTful APIs, OAuth 2.0, Microservices, Svelte
+**Machine Learning Algorithms:** A* Pathfinding, Gradient Boosting, Random Forest, SVM, Logistic Regression  
+**Specialized Skills:** Data Cleaning & Transformation, Visualization Dashboards, Predictive Modeling, Schema Design, Heuristic Functions, Software Design  
+**Software:** Microsoft Office Suite, Eclipse IDE, MATLAB  
+**Fields of Interest:** Artificial Intelligence, Machine Learning, Data Science, Data Mining, Blockchain Technology, Database Systems, UI/UX Design, Data Structures and Algorithms  
+**Operating Systems:** Windows, macOS, Linux  
 
 ---
 
