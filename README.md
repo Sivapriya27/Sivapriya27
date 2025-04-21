@@ -6,7 +6,7 @@ Currently decoding neurons by day 🧠 and data patterns by night 🌙
 
 🎓 Doing my **Master of Science in Computer Science** at the University of Minnesota 🏫 
 
-🎓 Graduated with **First Class Distinction** in B.Tech CSE from SRM University 🧙‍♀️
+🎓 Graduated with **First Class Distinction** in Bachelor of Technology in Computer Science and Engineering from SRM University 🧙‍♀️
 
 🧠 I'm a **Graduate Research Assistant** at UMN Neuroscience Dept., building software and analyzing data to help treat neurogenic damage. 
    Yes, I play with patient data. Responsibly! 😇
