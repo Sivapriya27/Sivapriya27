@@ -2,14 +2,14 @@
 **Hello and Welcome to my world of code!👋**
 
 I'm **Sivapriya Gopi** — part technologist, part research nerd, full-time ML/Data Lover  🧙‍♀️💻  
+
 Currently decoding neurons by day 🧠 and data patterns by night 🌙
 
 🎓 Doing my **Master of Science in Computer Science** at the University of Minnesota 🏫 
 
 🎓 Graduated with **First Class Distinction** in Bachelor of Technology in Computer Science and Engineering from SRM University 🧙‍♀️
 
-🧠 I'm a **Graduate Research Assistant** at UMN Neuroscience Dept., building software and analyzing data to help treat neurogenic damage. 
-   Yes, I play with patient data. Responsibly! 😇
+🧠 I'm a **Graduate Research Assistant** at UMN Neuroscience Dept., building software and analyzing data to help treat neurogenic damage. Yes, I play with patient data. Responsibly! 😇
 
 🚀 Interned as a Software Dev at **Softlogic Systems**, crafting payroll systems with Java + Spring Boot 🪄 — boosted performance, added OAuth, and made databases feel alive.
 
