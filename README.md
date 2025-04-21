@@ -8,7 +8,8 @@ Currently decoding neurons by day 🧠 and data patterns by night 🌙
 
 🎓 Graduated **with First Class Distinction** in B.Tech CSE from SRM University in India 🇮🇳
 
-🧠 I'm a **Graduate Research Assistant** at UMN Neuroscience Dept., building software and analyzing data to help treat neurogenic damage. Yes, I play with patient data. Responsibly! 😇
+🧠 I'm a **Graduate Research Assistant** at UMN Neuroscience Dept., building software and analyzing data to help treat neurogenic damage. 
+   Yes, I play with patient data. Responsibly! 😇
 
 🚀 Interned as a Software Dev at **Softlogic Systems**, crafting payroll systems with Java + Spring Boot like a backend wizard 🪄 — boosted performance, added OAuth, and made databases feel alive.
 
