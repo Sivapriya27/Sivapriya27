@@ -1,5 +1,5 @@
 
-**Hello and welcome to my world of code!**
+**Hello and welcome to my world of code!👋**
 
 I'm **Sivapriya Gopi** — part technologist, part research nerd, full-time ML/Data Lover  🧙‍♀️💻  
 Currently decoding neurons by day 🧠 and data patterns by night 🌙
