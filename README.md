@@ -16,10 +16,10 @@ Currently decoding neurons by day 🧠 and data patterns by night 🌙
 📊 Into all things **Machine Learning, Data Analytics, and Generative AI** (aka, I love when machines try to be smart — sometimes smarter than me 👀)
 
 👩‍💻 Projects I had way too much fun with:
-- 📰 **News Headline Classifier** – 87% accuracy (the news couldn’t fool me)
+- 📰 **News Headline Classification System** – 87% accuracy (the news couldn’t fool me)
 - 🧠 **Crime Prediction Model** – 91% accuracy (I swear, no psychic powers involved)
-- 🤖 **AI Pursuit Game** – Robots that chase you using A*, because why not?
-- 📈 **Stock Sentiment Analyzer** – Built with Svelte, because even stocks have feelings
+- 🤖 **AI Pursuit Evasion Game** – Robots that chase you using A*, because why not?
+- 📈 **Stock Sentiment Analysis** – Built with Svelte, because even stocks follow feelings
 - 💰 **Personal Finance Tracker for Students** – Budgeting made bearable
 - 🌍 **SettleUp** – Helping international students survive (and thrive!)
 
