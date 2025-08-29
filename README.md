@@ -9,17 +9,18 @@ Currently decoding neurons by day 🧠 and data patterns by night 🌙
 
 🎓 Graduated with **First Class Distinction** in Bachelor of Technology in Computer Science and Engineering from SRM University 🧙‍♀️
 
-🧠 I'm a **Graduate Research Assistant** at UMN Neuroscience Dept., building software and analyzing data to help treat neurogenic damage. Yes, I play with patient data. Responsibly! 😇
+🧠 I'm a **Graduate Research Assistant** at UMN Neurosurgery Dept., building software and analyzing data to help treat neurologic damage. Yes, I play with patient data. Responsibly! 😇
 
 🚀 Interned as a Software Dev at **Softlogic Systems**, crafting payroll systems with Java + Spring Boot 🪄 — boosted performance, added OAuth, and made databases feel alive.
 
 📊 Into all things **Machine Learning, Data Analytics, and Generative AI** (aka, I love when machines try to be smart — sometimes smarter than me 👀)
 
 👩‍💻 Projects I had way too much fun with:
-- 📰 **News Headline Classification System** – 87% accuracy (the news couldn’t fool me)
+- 📈 **Stock Sentiment Analysis** – Built with Svelte, because even stocks follow feelings
+- 🧙‍♀️ ** Sivapriya Gopi's Portfolio** - Wanna know me? just scroll through!
 - 🧠 **Crime Prediction Model** – 91% accuracy (I swear, no psychic powers involved)
 - 🤖 **AI Pursuit Evasion Game** – Robots that chase you using A*, because why not?
-- 📈 **Stock Sentiment Analysis** – Built with Svelte, because even stocks follow feelings
+- 📰 **News Headline Classification System** – 87% accuracy (the news couldn’t fool me)
 - 💰 **Personal Finance Tracker for Students** – Budgeting made bearable
 - 🌍 **SettleUp** – Helping international students survive (and thrive!)
 
