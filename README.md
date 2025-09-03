@@ -1,7 +1,7 @@
 
 **Hello and Welcome to my world of code!👋**
 
-I'm **Sivapriya Gopi** — part technologist, part research nerd, full-time ML/Data Lover  🧙‍♀️💻  
+I'm **Sivapriya Gopi** - part technologist, part research nerd, full-time AI/ML/Data Lover  🧙‍♀️💻  
 
 Currently decoding neurons by day 🧠 and data patterns by night 🌙
 
