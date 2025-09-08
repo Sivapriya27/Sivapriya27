@@ -18,7 +18,7 @@ Currently decoding neurons by day 🧠 and data patterns by night 🌙
 👩‍💻 Projects I had way too much fun with:
 - 📈 **Stock Sentiment Analysis** - Built with Svelte, because even stocks follow feelings
 - 🧙‍♀️ **Sivapriya Gopi's Portfolio** - Wanna know me? just scroll through!
-- 🧠 **Crime Prediction Model** - 91% accuracy (I swear, no psychic powers involved)
+- 🧠 **Crime Prediction Model** - Predicting crime types (I swear, no psychic powers involved)
 - 🤖 **AI Pursuit Evasion Game** - Robots that chase you using A*, because why not?
 - 📰 **News Headline Classification System** - 92.05% accuracy (the news couldn’t fool me)
 - 💰 **Personal Finance Tracker for Students** - Budgeting made bearable
