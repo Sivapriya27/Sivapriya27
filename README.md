@@ -5,7 +5,7 @@ I'm **Sivapriya Gopi** - part technologist, part research nerd, full-time AI/ML/
 
 **View the portfolio live here**: "https://sivapriya27.github.io/Sivapriya-Gopi-Portfolio/"
 
-For the best experience on mobile, switch to light mode; on desktop, it’s fully optimized.
+(For the best experience on mobile, switch to light mode; on desktop, it’s fully optimized.)
 
 Currently decoding neurons by day 🧠 and data patterns by night 🌙
 
